@@ -7,3 +7,8 @@ informational, not legal advice.
 | source | licence (as published by the source) |
 | --- | --- |
 | pytorch/vision (ResNet, Mask R-CNN heads, FCN / DeepLabv3, ASPP) | BSD-3-Clause |
+
+## v1.1 additions (KITTI, 2026-11-08)
+
+- Initial weights: MOT-stage detectors of this series (Statera-Workshop/MOT_Detectors_KITTIMOTS, Release v1.0).
+- KITTI-MOTS (Voigtlaender et al., CVPR 2019) encoding, built from KITTI-STEP; KITTI tracking images: CC BY-NC-SA 3.0.
